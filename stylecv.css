@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+}
+
+.top {
+  background-color: #E4F9F5;
+}
+
+.mid {
+  padding: 30px;
+}
+
+.buttom {
+  padding: 30px;
+}
+
+.resize {
+  width: 300px;
+  height: auto;
+  border-radius: 70%;
+}
+
+/**************  Names **************/
+.name {
+  font-family: 'Dancing Script', cursive;
+}
+
+.type {
+  font-family: 'Bad Script', cursive;
+
+}
+
+/*********** Photos ***********/
+.topcloud {
+  position: relative;
+  left: 25em;
+  top: 3em;
+}
+
+.buttomcloud {
+  position: absolute;
+  buttom: 250em;
+}
+
+/*********** Lines **************/
+.line {
+  padding-top: 3em;
+  width: 500px;
+}
+
+.me {
+  position: relative;
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+}
